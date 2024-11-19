@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "alura_imersao_beck_end",
   "version": "1.0.0",
-  "description": "",
+  "description": "Desvendando APIs e Servidores",
   "main": "index.js",
   "type": "module",
   "license": "AGPL-version-3.0",
@@ -10,15 +10,15 @@
     "node": ">= 14.0.0",
     "npm": ">= 6.0.0"
   },
-  "homepage": "",
+  "homepage": "http://localhost:3000/",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/LUANSSA/alura_imersao_beck_end"
   },
   "bugs": "",
   "keywords": [],
   "author": {
-    "name": "",
+    "name": "Luan",
     "email": "",
     "url": ""
   },
